@@ -38,7 +38,7 @@ PRODUCT_AAPT_PREF_CONFIG := hdpi
 
 # Configuration scripts
 PRODUCT_COPY_FILES += \
-   device/sony/montblanc-common/prebuilt/logo-540x960.rle:root/logo.rle \
+   device/sony/montblanc-common/prebuilt/logo-540x960.rle:root/logo.rle
 
 # Recovery and ramdisk for stock kernel
 PRODUCT_COPY_FILES += \
